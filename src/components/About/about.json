@@ -1,0 +1,43 @@
+[
+    {
+        "id": "1",
+        "title": "html",
+        "style": "#F16529 ",
+        "bg": "rgb(228 77 38 / 56%)",
+        "imagCover": "fa-brands fa-html5",
+        "description":"HTML (HyperText Markup Language) is the standard language for creating the structure of web pages. It is used to define and organize content such as text, images, and links, forming the backbone of any website."
+    },
+    {
+        "id": "2",
+        "title": "css",
+        "style": "#1394D0 ",
+        "bg": "rgb(21 114 182 / 50%)",
+        "imagCover": "fa-brands fa-css3-alt",
+        "description":"CSS (Cascading Style Sheets) is a stylesheet language used to control the presentation and layout of web pages. It allows you to style elements such as colors, fonts, spacing, and positioning, enhancing the visual appeal and usability of websites."
+    },
+    {
+        "id": "3",
+        "title": "bootstrap5",
+        "style": "#8B5CF6 ",
+        "bg": "rgb(86 61 124 / 55%)",
+        "imagCover": "fa-brands fa-bootstrap",
+        "description": "Bootstrap 5 is an open-source framework that provides pre-designed components and styles for building responsive and visually appealing web interfaces. It simplifies the development process with its extensive library of UI elements and utilities."
+    },
+    
+    {
+        "id": "5",
+        "title": "javaScript",
+        "style": "#F0DB4F ",
+        "bg": "rgb(247 223 30 / 50%)",
+        "imagCover": "fa-brands fa-js",
+        "description": "JavaScript is a programming language used to add interactivity and dynamic features to web pages. It enables the creation of interactive effects, form validation, and data manipulation, making websites more engaging and functional."
+    },
+    {
+        "id": "6",
+        "title": "react",
+        "style": "#282C34 ",
+        "bg": "rgb(97 218 251 / 46%)",
+        "imagCover": "fa-brands fa-react",
+        "description": "React is a JavaScript library for building user interfaces. It allows developers to create reusable UI components and efficiently manage the rendering of dynamic content with its virtual DOM feature."
+    }
+]

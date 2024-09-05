@@ -1,0 +1,13 @@
+.bgimage{
+    background-image: url("../../assets/home-bg.jpg");
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 30px;
+    padding-top: 30px;
+    position: relative;
+    z-index: -1;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.712); 
+    background-blend-mode: overlay; 
+}

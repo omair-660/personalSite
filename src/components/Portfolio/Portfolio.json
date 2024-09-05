@@ -1,0 +1,146 @@
+[
+  {
+    "id": "1",
+    "title": "FunHub",
+    "description": "FunHub is a collection of interactive and engaging online games designed to challenge your mind and entertain you. Whether you enjoy puzzles, quizzes, or memory games, FunHub offers a variety of options for players of all ages. Dive in and have fun!",
+    "imagCover": "https://res.cloudinary.com/dsflxwuwv/image/upload/v1725465939/1_lcdmn5.jpg",
+    "link": "https://omair-660.github.io/games/",
+    "images":[ "https://res.cloudinary.com/dsflxwuwv/image/upload/v1725465939/1_lcdmn5.jpg",
+     "https://res.cloudinary.com/dsflxwuwv/image/upload/v1725467733/chrome_nt95r154ME_nen67v.png"],
+    "tools": ["html","css","js","oop","bootstrap"]
+  },
+  {
+    "id": "2",
+    "title": "FreshCart",
+    "description": "FreshCart is an intuitive and user-friendly online shopping platform designed to make grocery shopping simple and enjoyable. With features like easy navigation, real-time inventory updates, and personalized recommendations, FreshCart ensures a seamless shopping experience for customers looking to buy fresh and high-quality products.",
+    "imagCover": "https://res.cloudinary.com/dsflxwuwv/image/upload/v1725465940/2_idpzh3.jpg",
+    "link": "https://omair-660.github.io/FreshCart/",
+    "images":[ "https://res.cloudinary.com/dsflxwuwv/image/upload/v1725465940/2_idpzh3.jpg","https://res.cloudinary.com/dsflxwuwv/image/upload/v1725467922/2-1_lxgorb.png","https://res.cloudinary.com/dsflxwuwv/image/upload/v1725467923/2-2_c7138l.png","https://res.cloudinary.com/dsflxwuwv/image/upload/v1725467923/2-3_sgfmez.png"],
+    "tools": ["html","css","js","react.js","tailwindCss","api"]
+  },
+  {
+    "id": "3",
+    "title": "Bookmark Manager",
+    "description": "Bookmark Manager is an efficient tool for organizing and managing your favorite websites and online resources. With features like adding, editing, and deleting bookmarks, as well as categorizing and searching, Bookmark Manager helps you keep track of your most important links and access them quickly and easily.",
+    "imagCover": "https://res.cloudinary.com/dsflxwuwv/image/upload/v1725465935/3_gt9mys.jpg",
+    "link": "https://omair-660.github.io/crudsThree/",
+    "images":[
+      "https://res.cloudinary.com/dsflxwuwv/image/upload/v1725465935/3_gt9mys.jpg",
+      "https://res.cloudinary.com/dsflxwuwv/image/upload/v1725467723/chrome_Ap45wwZt9W_yskbfx.png",
+      "https://res.cloudinary.com/dsflxwuwv/image/upload/v1725467725/chrome_dtpruPVMQQ_xtwxdb.png"
+    ],
+    "tools": ["html","css","js","bootstrap"]
+  },
+  {
+    "id": "4",
+    "title": "SmartLogin",
+    "description": "SmartLogin is a modern and secure authentication system designed to streamline the login process for users. With features such as easy-to-use forms, secure password management, and optional multi-factor authentication, SmartLogin ensures a safe and seamless login experience, making it ideal for both personal and professional applications.",
+    "imagCover": "https://res.cloudinary.com/dsflxwuwv/image/upload/v1725465934/4_dt8hxj.jpg",
+    "link": "https://omair-660.github.io/smartLogin/",
+    "images":[
+      "https://res.cloudinary.com/dsflxwuwv/image/upload/v1725465934/4_dt8hxj.jpg",
+      "https://res.cloudinary.com/dsflxwuwv/image/upload/v1725467725/chrome_qUNc1KbH2k_zbecqo.png",
+      "https://res.cloudinary.com/dsflxwuwv/image/upload/v1725467732/chrome_Pl5coqhi4I_lqlhdu.png"
+    ],
+    "tools": ["html","css","js","bootstrap"]
+  },
+  {
+    "id": "5",
+    "title": "InspireQuotes",
+    "description": "InspireQuotes is a delightful application that offers a curated collection of inspiring and motivational quotes. With an easy-to-navigate interface, users can explore a variety of quotes, save their favorites, and share them with friends. InspireQuotes aims to provide daily doses of motivation and positivity to uplift and inspire users.",
+    "imagCover": "https://res.cloudinary.com/dsflxwuwv/image/upload/v1725467725/chrome_hImz28FmZn_jjw6kf.png",
+    "link": "https://omair-660.github.io/quotes/",
+    "images":[
+      "https://res.cloudinary.com/dsflxwuwv/image/upload/v1725467725/chrome_hImz28FmZn_jjw6kf.png",
+      "https://res.cloudinary.com/dsflxwuwv/image/upload/v1725465934/5_cg50yl.jpg"
+    ],
+    "tools": ["html","css","js","bootstrap"]
+  },
+  {
+    "id": "6",
+    "title": "WeathrPro",
+    "description": "WeathrPro is a sleek and user-friendly weather application designed to provide accurate and up-to-date weather forecasts. With features such as current weather conditions, hourly and daily forecasts, and a clean interface, WeathrPro helps users stay informed about the weather and plan their day accordingly. Whether you're checking the weather for a quick outing or planning a trip, WeathrPro delivers reliable information at your fingertips.",
+    "imagCover": "https://res.cloudinary.com/dsflxwuwv/image/upload/v1725465936/6_w38mej.jpg",
+    "link": "https://omair-660.github.io/weathr/",
+    "images":[
+      "https://res.cloudinary.com/dsflxwuwv/image/upload/v1725465936/6_w38mej.jpg",
+      "https://res.cloudinary.com/dsflxwuwv/image/upload/v1725467731/chrome_zuSk1paeln_xozydc.jpg"
+    ],
+    "tools": ["html","css","js","api","bootstrap"]
+  },
+  {
+    "id": "7",
+    "title": "PartyPlanner",
+    "description": "PartyPlanner is an engaging and dynamic application designed to help users organize and manage their events and parties. Featuring tools for event scheduling, guest list management, and party themes, PartyPlanner makes planning a seamless experience. Whether you're hosting a small gathering or a large celebration, PartyPlanner provides the features you need to ensure your event is a success.",
+    "imagCover": "https://res.cloudinary.com/dsflxwuwv/image/upload/v1725465939/7_kdzthk.jpg",
+    "link": "https://omair-660.github.io/party/",
+    "images":[
+      "https://res.cloudinary.com/dsflxwuwv/image/upload/v1725465939/7_kdzthk.jpg",
+      "https://res.cloudinary.com/dsflxwuwv/image/upload/v1725467723/chrome_AfQujmUZm8_m7gx8i.png"
+    ],
+    "tools": ["html","css","js","jquery","bootstrap"]
+  },
+  {
+    "id": "8",
+    "title": "ZikrHub",
+    "description": "ZikrHub is a practical and serene platform designed to provide users with a collection of Islamic supplications and remembrance (dhikr). It features a user-friendly interface to browse through various dhikr, and includes options for listening to their recitations. ZikrHub aims to facilitate daily spiritual practices and enhance the user's connection to their faith.",
+    "imagCover": "https://res.cloudinary.com/dsflxwuwv/image/upload/v1725465937/8_ajjwuf.jpg",
+    "link": "https://omair-660.github.io/qraan/index-tow.html",
+    "images":[
+      "https://res.cloudinary.com/dsflxwuwv/image/upload/v1725465937/8_ajjwuf.jpg",
+      "https://res.cloudinary.com/dsflxwuwv/image/upload/v1725467724/chrome_PZ0E6i96nx_dmm4sc.png",
+      "https://res.cloudinary.com/dsflxwuwv/image/upload/v1725467728/chrome_Se0sbI8zFG_ekqhco.png"
+    ],
+    "tools": ["html","css","js"]
+  },
+  {
+    "id": "9",
+    "title": "SimpleCalculator",
+    "description": "Simple Calculator is an easy-to-use tool that allows you to perform basic arithmetic operations such as addition, subtraction, multiplication, and division quickly and accurately. The site is designed with a clean and straightforward interface to meet users' needs for instant calculation results",
+    "imagCover": "https://res.cloudinary.com/dsflxwuwv/image/upload/v1725465938/9_alrlko.png",
+    "link": "https://omair-660.github.io/calc/",
+    "images":[
+      "https://res.cloudinary.com/dsflxwuwv/image/upload/v1725465938/9_alrlko.png",
+      "https://res.cloudinary.com/dsflxwuwv/image/upload/v1725465938/9_alrlko.png"
+    ],
+    "tools": ["html","css","js"]
+  },
+  {
+    "id": "10",
+    "title": "The Decision Game",
+    "description": "Test Your Love is a fun, interactive game that challenges you to make a simple choice: click 'Yes' to receive a heart or 'No' to get an angry emoji. Enjoy making decisions and seeing the immediate reactions with a playful design and an experience that brings curiosity and laughter.",
+    "imagCover": "https://res.cloudinary.com/dsflxwuwv/image/upload/v1725465941/10_r5h3rz.png",
+    "link": "https://omair-660.github.io/loveMe/",
+    "images":[
+      "https://res.cloudinary.com/dsflxwuwv/image/upload/v1725465941/10_r5h3rz.png",
+      "https://res.cloudinary.com/dsflxwuwv/image/upload/v1725469834/chrome_uQduC2LtSd_u6bhbw.png"
+    ],
+    "tools": ["html","css","js"]
+  },
+  {
+    "id": "11",
+    "title": "ImageSlider",
+    "description": "Image Slider Showcase is a sleek and modern slider that beautifully displays a collection of images. Whether you want to highlight your favorite photos or showcase a portfolio, this responsive slider offers smooth transitions and a visually appealing design, making it perfect for any web project.",
+    "imagCover": "https://res.cloudinary.com/dsflxwuwv/image/upload/v1725465941/11_djhlng.png",
+    "link": "https://omair-660.github.io/slider/",
+    "images":[
+      "https://res.cloudinary.com/dsflxwuwv/image/upload/v1725465941/11_djhlng.png",
+      "https://res.cloudinary.com/dsflxwuwv/image/upload/v1725470194/chrome_kFkx5tEMxu_inpav6.jpg"
+    ],
+    "tools": ["html","css","js"]
+  },
+  {
+    "id": "12",
+    "title": "FixIt",
+    "description": "FixIt is an interactive website designed to help you easily and quickly correct errors. With a simple and efficient user interface, you can make fixes and adjustments with just a few clicks. The site features a clear and flexible design, making it an ideal tool for improving any content or project.",
+    "imagCover": "https://res.cloudinary.com/dsflxwuwv/image/upload/v1725470642/chrome_zjAFANv6pN_wyftwt.jpg",
+    "link": "https://omair-660.github.io/fixit/",
+    "images":[
+      "https://res.cloudinary.com/dsflxwuwv/image/upload/v1725470642/chrome_zjAFANv6pN_wyftwt.jpg",
+      "https://res.cloudinary.com/dsflxwuwv/image/upload/v1725470643/chrome_4aovYRxkB5_lpgrdl.png",
+      "https://res.cloudinary.com/dsflxwuwv/image/upload/v1725470648/chrome_Ig1CWstwdm_lyxtek.png",
+      "https://res.cloudinary.com/dsflxwuwv/image/upload/v1725470644/chrome_cI8QaHnNY0_pu5kae.png"
+    ],
+    "tools": ["html","css","js","jquery","bootstrap"]
+  }
+]

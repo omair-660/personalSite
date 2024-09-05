@@ -1,0 +1,63 @@
+{
+    "hello": "Hello, world'",
+    "logo": "omair",
+    "im": "I'm",
+    "name": "omair mohammed",
+    "front_end_developer": "front-end developer",
+    "frontend_designer": "frontend designer",
+    "freelancer": "Freelancer",
+    "let_me_introduce": "LET ME MYSELF",
+    "intro": "INTRODUCE",
+    "fall_in_love": "I fell in love with programming and I have at least learned something, I think… 🤷‍♂️",
+    "fluent_in_js": "I am fluent in JavaScript and have a keen interest in building new web technologies.",
+    "passionate_about": "I am particularly passionate about working with modern JavaScript libraries and frameworks like",
+    "interested_in": "In addition, I am also interested in areas related to blockchain",
+    "technology": " technology.",
+    "find_me_on": "FIND ME ON",
+    "connect": "connect",
+    
+    "about":{
+        "hi1": "Hi Everyone, I am ",
+        "hi2": "from Egypt.",
+        "hi3": "I work as a freelance front-end developer.",
+        "workAs": "I work as a freelance front-end developer.",
+        "activities": "Apart from coding, some other activities that I love to do!",
+        "playingGames": "Playing Games",
+        "sittingQuietly": "Sitting quietly",
+        "quote": "Embrace challenges, seek growth, and build with passion. Your efforts today shape the innovations of tomorrow",
+        "hand": "fa-solid fa-hand-point-right",
+        "who_me": "Know Who",
+        "i": "I,m",
+        "professional": "Professional",
+        "skillset": "Skillset",
+        "tool": "Tool ",
+        "use": "I use"
+    },
+   
+
+    "contact": {
+      "formTitle": "contact me",
+    "email": "Email",
+    "message": "Message",
+    "submit": "Submit",
+    "emailRequired": "Email is required",
+    "emailInvalid": "Email is invalid",
+    "messageRequired": "Message is required",
+    "messageMinLength": "Message must be at least 6 characters long",
+    "success": "Message sent successfully.",
+    "error": "Failed to send message. Please try again."
+    },
+
+    "navBar": {
+    "home": "Home",
+    "about": "About",
+    "skills": "Skills",
+    "portfolio": "Portfolio",
+    "contact": "Contact"
+    },
+
+  "footer": {
+    "designer": "Developed by Omair Mohamed",
+    "copyright": "Copyright © 2024"
+  }
+}
