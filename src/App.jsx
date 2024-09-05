@@ -13,16 +13,19 @@ import ProjectDetails from './components/ProjectDetails/ProjectDetails'
 
 function App() {
   
-  let  x  = createBrowserRouter([
-     
-    {path : "" , element: <Layout/>, children : [
-      {index : true, element : <Home/>},
-      {path : "about", element : <About/>},
-      {path : "portfolio", element : <Portfolio/>},
-      {path : "contact", element : <Contact/>},
-      {path : "projectdetails/:id", element : <ProjectDetails/>},
-    ]}
-  ])
+  let x = createBrowserRouter([
+    {
+      path: "/personalSite",
+      element: <Layout />,
+      children: [
+        { index: true, element: <Home /> },
+        { path: "about", element: <About /> },
+        { path: "portfolio", element: <Portfolio /> },
+        { path: "contact", element: <Contact /> },
+        { path: "projectdetails/:id", element: <ProjectDetails /> },
+      ],
+    },
+  ]);
   
   return (
     <>
