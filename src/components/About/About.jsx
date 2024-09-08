@@ -137,7 +137,7 @@ export default function About() {
           </div>
         </div>
         {selectedSkill && (
-          <div  style={{ backgroundColor: selectedSkill.bg }}  className={` w-full h-full fixed top-1/2 -translate-y-1/2 left-1/2 -translate-x-1/2 text-white backdrop-blur-md z-50 rounded-lg flex flex-col justify-center items-center p-6`}>
+          <div  style={{ backgroundColor: selectedSkill.bg ,transition:'0.5s'}}  className={` w-full h-full fixed top-1/2 -translate-y-1/2 left-1/2 -translate-x-1/2 text-white backdrop-blur-md z-50 rounded-lg flex flex-col justify-center items-center p-6`}>
             <div className="">
               <h2 className="font-semibold text-2xl capitalize">{selectedSkill.title}</h2>
               <i style={{color: selectedSkill.style}} className={`text-3xl my-2 ${selectedSkill.imagCover}`}></i>

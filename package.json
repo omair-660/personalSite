@@ -2,11 +2,11 @@
   "name": "portfolio1",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://omair-660.github.io/personalSite",
+  "homepage": "https://gitname.github.io/personalSite",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist",
+   "deploy": "gh-pages -d build",
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",

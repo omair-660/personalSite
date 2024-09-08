@@ -9,19 +9,20 @@ import "../node_modules/@fortawesome/fontawesome-free/css/all.min.css"
 import 'animate.css';
 import { ScrollProvider } from './components/Context/ScrollContext'
 import ProjectDetails from './components/ProjectDetails/ProjectDetails'
+import Notfound from './components/Notfound/Notfound'
 
 
 function App() {
   
   let x = createBrowserRouter([
     {
-      path: "/personalSite",
       element: <Layout />,
       children: [
         { index: true, element: <Home /> },
         { path: "about", element: <About /> },
         { path: "portfolio", element: <Portfolio /> },
         { path: "contact", element: <Contact /> },
+        { path: "*", element: <Notfound /> },
         { path: "projectdetails/:id", element: <ProjectDetails /> },
       ],
     },
