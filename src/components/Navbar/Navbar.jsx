@@ -57,7 +57,17 @@ export default function Navbar() {
                   to="/"
                   className="text-lg font-semibold tracking-widest text-gray-100 uppercase rounded-lg focus:outline-none focus:shadow-outline"
                 >
-                  {t('logo')}
+                  <div className=' flex'>
+                    <h2 className='px-1'>{t('logo' )}  </h2>
+                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 24" width="50" height="50">
+    <rect width="1.17" height="14" fill="#000"/>
+    <rect y="3.11" width="14" height="3.11" fill="#FFF"/>
+    <rect y="6.22" width="14" height="3.11" fill="#007A3D"/>
+    <polygon points="0,0 5.83,4.67 0,9.33" fill="#CE1126"/>
+  </svg>
+  </div>
+
+
                 </Link>
                 <button
                   className="rounded-lg md:hidden focus:outline-none focus:shadow-outline"

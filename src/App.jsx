@@ -13,20 +13,23 @@ import Notfound from './components/Notfound/Notfound'
 
 
 function App() {
+  let x = createBrowserRouter(
+    [
+      {
+        element: <Layout />,
+        children: [
+          { index: true, element: <Home /> },
+          { path: "about", element: <About /> },
+          { path: "portfolio", element: <Portfolio /> },
+          { path: "contact", element: <Contact /> },
+          { path: "*", element: <Notfound /> },
+          { path: "projectdetails/:id", element: <ProjectDetails /> },
+        ],
+      },
+    ],
+    { basename: "/personalSite" }
+  );
   
-  let x = createBrowserRouter([
-    {
-      element: <Layout />,
-      children: [
-        { index: true, element: <Home /> },
-        { path: "about", element: <About /> },
-        { path: "portfolio", element: <Portfolio /> },
-        { path: "contact", element: <Contact /> },
-        { path: "*", element: <Notfound /> },
-        { path: "projectdetails/:id", element: <ProjectDetails /> },
-      ],
-    },
-  ]);
   
   return (
     <>

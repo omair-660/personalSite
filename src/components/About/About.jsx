@@ -81,20 +81,20 @@ export default function About() {
           </span>
         </h3>
         <div className="flex flex-wrap justify-center items-center *:text-center *:w-full md:*:w-1/2 lg:*:w-1/5 *:text-white *:my-3 *:text-5xl *:transition *:duration-500 *:bottom">
-          {data.map((skill) => (
+        {data.map((skill) => (
             <div
               key={skill.id}
               onClick={() => handleClick(skill)}
               className="bottom"
             >
-              <div className="hover:scale-110 cursor-pointer group transition duration-500 h-24 w-9/12  rounded-md border border-purple-500 flex justify-center items-center hover:border-purple-300">
+              <div className="hover:scale-105 md:hover:scale-110 cursor-pointer group transition duration-500 h-24 w-full md:w-6/12 lg:w-9/12  rounded-md border border-purple-500 flex justify-center items-center hover:border-purple-300">
                 <i className={skill.imagCover}></i>
               </div>
             </div>
           ))}
 
           <div className="bottom">
-            <div className="hover:scale-110 group transition duration-500 h-24 w-9/12  rounded-md border border-purple-500 flex justify-center items-center hover:border-purple-300">
+            <div className="hover:scale-105 md:hover:scale-110 group transition duration-500 h-24 w-full md:w-6/12 lg:w-9/12 rounded-md border border-purple-500 flex justify-center items-center hover:border-purple-300">
               <svg
                 className=" text-gray-800 dark:text-white"
                 aria-hidden="true"
@@ -110,7 +110,7 @@ export default function About() {
           </div>
 
           <div className="bottom">
-            <div className="hover:scale-110 group transition duration-500 h-24 w-9/12  rounded-md border border-purple-500 flex justify-center items-center hover:border-purple-300">
+            <div className="hover:scale-105 md:hover:scale-110 group transition duration-500 h-24 w-full md:w-6/12 lg:w-9/12  rounded-md border border-purple-500 flex justify-center items-center hover:border-purple-300">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 width="100"
@@ -161,7 +161,7 @@ export default function About() {
         </h3>
         <div className="flex flex-wrap justify-center items-center *:w-full md:*:w-1/2 lg:*:w-1/5 *:text-white *:my-3 *:text-5xl *:transition *:duration-500 *:bottom">
           <div className="bottom">
-            <div className="hover:scale-110 group transition duration-500 h-24 w-9/12  rounded-md border border-purple-500 flex justify-center items-center hover:border-purple-300">
+            <div className="hover:scale-105 md:hover:scale-110 group transition duration-500 h-24 w-full md:w-6/12 lg:w-9/12  rounded-md border border-purple-500 flex justify-center items-center hover:border-purple-300">
               <svg
                 stroke="currentColor"
                 fill="currentColor"
@@ -178,7 +178,7 @@ export default function About() {
             </div>
           </div>
           <div className="bottom">
-            <div className="hover:scale-110 group transition duration-500 h-24 w-9/12  rounded-md border border-purple-500 flex justify-center items-center hover:border-purple-300">
+            <div className="hover:scale-105 md:hover:scale-110 group transition duration-500 h-24 w-full md:w-6/12 lg:w-9/12  rounded-md border border-purple-500 flex justify-center items-center hover:border-purple-300">
               <svg
                 stroke="currentColor"
                 fill="currentColor"
@@ -195,7 +195,7 @@ export default function About() {
             </div>
           </div>
           <div className="bottom">
-            <div className="hover:scale-110 group transition duration-500 h-24 w-9/12  rounded-md border border-purple-500 flex justify-center items-center hover:border-purple-300">
+            <div className="hover:scale-105 md:hover:scale-110 group transition duration-500 h-24 w-full md:w-6/12 lg:w-9/12  rounded-md border border-purple-500 flex justify-center items-center hover:border-purple-300">
               <i className="fa-brands fa-npm"></i>
             </div>
           </div>

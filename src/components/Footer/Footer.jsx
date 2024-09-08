@@ -25,7 +25,7 @@ export default function Footer() {
         <div className='my-4'>
           <div className="icons flex justify-center text-white space-x-1 items-center rounded-full h-9 ">
             <a
-              href="https://github.com/your-username"
+              href="https://github.com/omair-660"
               target="_blank"
               rel="noopener noreferrer"
               className="p-2"
@@ -33,7 +33,7 @@ export default function Footer() {
               <i className="text-slate-50 fab fa-github"></i>
             </a>
             <a
-              href="https://linkedin.com/in/your-profile"
+              href="https://www.linkedin.com/in/omair-mohammed-%F0%9F%87%B5%F0%9F%87%B8-4120b2283?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app "
               target="_blank"
               rel="noopener noreferrer"
               className="p-2"
@@ -41,7 +41,7 @@ export default function Footer() {
               <i className="text-slate-50 fab fa-linkedin-in"></i>
             </a>
             <a
-              href="https://facebook.com/your-profile"
+              href="https://www.facebook.com/omair.rajeh?mibextid=ZbWKwL"
               target="_blank"
               rel="noopener noreferrer"
               className="p-2"
@@ -49,7 +49,7 @@ export default function Footer() {
               <i className="text-slate-50 fab fa-facebook-f"></i>
             </a>
             <a
-              href="https://instagram.com/your-profile"
+              href="https://instagram.com/omair_660"
               target="_blank"
               rel="noopener noreferrer"
               className="p-2"
