@@ -2,7 +2,7 @@
   "name": "portfolio1",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://omair-660.github.io/personalSitee",
+  "homepage": "https://omair-660.github.io/personalSite",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
