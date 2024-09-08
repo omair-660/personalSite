@@ -2,7 +2,7 @@
   "name": "portfolio1",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://gitname.github.io/personalSite",
+  "homepage": "https://gitname.github.io/personalSitee",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
