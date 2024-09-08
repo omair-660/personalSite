@@ -80,7 +80,7 @@
     100% {
       background-position: 0% 50%;
     }
-=======
+}
 .R::after ,
 .R::before,
 .botm {
@@ -162,5 +162,5 @@
     100% {
       background-position: 0% 50%;
     }
->>>>>>> 57fada63e1816b1d7ea26550443d78104df38eff
+
   }
