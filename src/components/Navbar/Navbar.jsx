@@ -73,7 +73,7 @@ export default function Navbar() {
                   className="rounded-lg md:hidden focus:outline-none focus:shadow-outline"
                   onClick={() => setIsOpen(!isOpen)}
                 >
-                  <svg
+                  <svg className="text-purple-400"
                     fill="currentColor"
                     viewBox="0 0 20 20"
                     className="w-6 h-6"
