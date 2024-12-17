@@ -14,7 +14,7 @@
     "title": "FreshCart",
     "description": "FreshCart is an intuitive and user-friendly online shopping platform designed to make grocery shopping simple and enjoyable. With features like easy navigation, real-time inventory updates, and personalized recommendations, FreshCart ensures a seamless shopping experience for customers looking to buy fresh and high-quality products.",
     "imagCover": "https://res.cloudinary.com/dsflxwuwv/image/upload/v1725465940/2_idpzh3.jpg",
-    "link": "https://omair-660.github.io/FreshCart/",
+    "link": "https://fresh-cart-virid.vercel.app/",
     "images":[ "https://res.cloudinary.com/dsflxwuwv/image/upload/v1725465940/2_idpzh3.jpg","https://res.cloudinary.com/dsflxwuwv/image/upload/v1725467922/2-1_lxgorb.png","https://res.cloudinary.com/dsflxwuwv/image/upload/v1725467923/2-2_c7138l.png","https://res.cloudinary.com/dsflxwuwv/image/upload/v1725467923/2-3_sgfmez.png"],
     "tools": ["html","css","js","react.js","tailwindCss","api"]
   },
